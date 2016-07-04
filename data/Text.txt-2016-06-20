@@ -1,0 +1,369 @@
+2016-06-20 22:33:01 INFO  Berth:18 - Berth #1 is created
+2016-06-20 22:33:01 INFO  Berth:18 - Berth #2 is created
+2016-06-20 22:33:01 INFO  Berth:18 - Berth #3 is created
+2016-06-20 22:33:01 INFO  Berth:18 - Berth #4 is created
+2016-06-20 22:33:01 INFO  Berth:18 - Berth #5 is created
+2016-06-20 22:33:01 INFO  Port:59 - Port is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #9 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #10 is created
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #9 took berth #1
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #10 took berth #2
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #11 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #12 is created
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #11 took berth #3
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #12 took berth #4
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #13 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #14 is created
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #13 took berth #5
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #15 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #16 is created
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #10 released berth #2
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #17 is created
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #14 took berth #2
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #18 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #19 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #20 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #21 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #22 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #23 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #24 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #25 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #26 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #27 is created
+2016-06-20 22:33:01 INFO  Ship:18 - Ship #28 is created
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #13 released berth #5
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #15 took berth #5
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #12 released berth #4
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #16 took berth #4
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #11 released berth #3
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #17 took berth #3
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #14 released berth #2
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #18 took berth #2
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #17 released berth #3
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #19 took berth #3
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #9 released berth #1
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #20 took berth #1
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #16 released berth #4
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #21 took berth #4
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #15 released berth #5
+2016-06-20 22:33:01 INFO  Ship:26 - Ship #22 took berth #5
+2016-06-20 22:33:01 ERROR Ship:29 - Ship #24  Timeout
+2016-06-20 22:33:01 ERROR Ship:29 - Ship #23  Timeout
+2016-06-20 22:33:01 ERROR Ship:29 - Ship #27  Timeout
+2016-06-20 22:33:01 ERROR Ship:29 - Ship #26  Timeout
+2016-06-20 22:33:01 ERROR Ship:29 - Ship #28  Timeout
+2016-06-20 22:33:01 ERROR Ship:29 - Ship #25  Timeout
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #22 released berth #5
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #20 released berth #1
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #18 released berth #2
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #19 released berth #3
+2016-06-20 22:33:01 INFO  Ship:34 - Ship #21 released berth #4
+2016-06-20 23:45:33 INFO  Berth:18 - Berth #1 is created
+2016-06-20 23:45:33 INFO  Berth:18 - Berth #2 is created
+2016-06-20 23:45:33 INFO  Berth:18 - Berth #3 is created
+2016-06-20 23:45:33 INFO  Berth:18 - Berth #4 is created
+2016-06-20 23:45:33 INFO  Berth:18 - Berth #5 is created
+2016-06-20 23:45:33 INFO  Port:59 - Port is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #9 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #10 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #11 is created
+2016-06-20 23:45:33 INFO  Ship:26 - Ship #9 took berth #1
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #12 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #13 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #14 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #15 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #16 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #17 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #18 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #19 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #20 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #21 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #22 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #23 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #24 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #25 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #26 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #27 is created
+2016-06-20 23:45:33 INFO  Ship:18 - Ship #28 is created
+2016-06-20 23:45:33 INFO  Ship:34 - Ship #9 released berth #1
+2016-06-20 23:45:33 INFO  Ship:26 - Ship #14 took berth #1
+2016-06-20 23:45:33 INFO  Ship:34 - Ship #14 released berth #1
+2016-06-20 23:45:33 INFO  Ship:26 - Ship #15 took berth #1
+2016-06-20 23:45:34 INFO  Ship:34 - Ship #15 released berth #1
+2016-06-20 23:45:34 INFO  Ship:26 - Ship #16 took berth #1
+2016-06-20 23:45:34 INFO  Ship:34 - Ship #16 released berth #1
+2016-06-20 23:45:34 INFO  Ship:26 - Ship #17 took berth #1
+2016-06-20 23:45:34 INFO  Ship:34 - Ship #17 released berth #1
+2016-06-20 23:45:34 INFO  Ship:26 - Ship #18 took berth #1
+2016-06-20 23:45:34 INFO  Ship:34 - Ship #18 released berth #1
+2016-06-20 23:45:34 INFO  Ship:26 - Ship #19 took berth #1
+2016-06-20 23:45:34 INFO  Ship:34 - Ship #19 released berth #1
+2016-06-20 23:45:34 INFO  Ship:26 - Ship #20 took berth #1
+2016-06-20 23:45:34 ERROR Ship:29 - Ship #21  Timeout
+2016-06-20 23:45:34 ERROR Ship:29 - Ship #22  Timeout
+2016-06-20 23:45:34 ERROR Ship:29 - Ship #25  Timeout
+2016-06-20 23:45:34 ERROR Ship:29 - Ship #24  Timeout
+2016-06-20 23:45:34 ERROR Ship:29 - Ship #28  Timeout
+2016-06-20 23:45:34 ERROR Ship:29 - Ship #26  Timeout
+2016-06-20 23:45:34 ERROR Ship:29 - Ship #23  Timeout
+2016-06-20 23:45:34 ERROR Ship:29 - Ship #27  Timeout
+2016-06-20 23:45:34 INFO  Ship:34 - Ship #20 released berth #1
+2016-06-20 23:45:59 INFO  Berth:18 - Berth #1 is created
+2016-06-20 23:45:59 INFO  Berth:18 - Berth #2 is created
+2016-06-20 23:45:59 INFO  Berth:18 - Berth #3 is created
+2016-06-20 23:45:59 INFO  Berth:18 - Berth #4 is created
+2016-06-20 23:45:59 INFO  Berth:18 - Berth #5 is created
+2016-06-20 23:45:59 INFO  Port:59 - Port is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #9 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #10 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #11 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #12 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #13 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #14 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #15 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #16 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #17 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #18 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #19 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #20 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #21 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #22 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #23 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #24 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #25 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #26 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #27 is created
+2016-06-20 23:45:59 INFO  Ship:18 - Ship #28 is created
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #9 took berth #1
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #11 took berth #2
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #13 took berth #3
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #15 took berth #4
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #17 took berth #5
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #15 released berth #4
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #28 took berth #4
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #28 released berth #4
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #26 took berth #4
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #11 released berth #2
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #24 took berth #2
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #13 released berth #3
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #22 took berth #3
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #17 released berth #5
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #20 took berth #5
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #9 released berth #1
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #18 took berth #1
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #18 released berth #1
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #16 took berth #1
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #24 released berth #2
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #14 took berth #2
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #16 released berth #1
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #12 took berth #1
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #20 released berth #5
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #10 took berth #5
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #26 released berth #4
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #27 took berth #4
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #22 released berth #3
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #25 took berth #3
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #25 released berth #3
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #23 took berth #3
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #23 released berth #3
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #21 took berth #3
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #12 released berth #1
+2016-06-20 23:45:59 INFO  Ship:26 - Ship #19 took berth #1
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #14 released berth #2
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #27 released berth #4
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #21 released berth #3
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #10 released berth #5
+2016-06-20 23:45:59 INFO  Ship:34 - Ship #19 released berth #1
+2016-06-20 23:46:14 INFO  Berth:18 - Berth #1 is created
+2016-06-20 23:46:14 INFO  Berth:18 - Berth #2 is created
+2016-06-20 23:46:14 INFO  Berth:18 - Berth #3 is created
+2016-06-20 23:46:14 INFO  Berth:18 - Berth #4 is created
+2016-06-20 23:46:14 INFO  Berth:18 - Berth #5 is created
+2016-06-20 23:46:14 INFO  Port:59 - Port is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #9 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #10 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #11 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #12 is created
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #11 took berth #2
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #9 took berth #1
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #13 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #14 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #15 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #16 is created
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #15 took berth #4
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #13 took berth #3
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #17 is created
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #11 released berth #2
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #17 took berth #5
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #18 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #19 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #20 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #21 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #22 is created
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #19 took berth #2
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #9 released berth #1
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #23 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #24 is created
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #21 took berth #1
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #25 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #26 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #27 is created
+2016-06-20 23:46:14 INFO  Ship:18 - Ship #28 is created
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #15 released berth #4
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #22 took berth #4
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #21 released berth #1
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #20 took berth #1
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #20 released berth #1
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #18 took berth #1
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #13 released berth #3
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #16 took berth #3
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #17 released berth #5
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #12 took berth #5
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #16 released berth #3
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #14 took berth #3
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #22 released berth #4
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #24 took berth #4
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #19 released berth #2
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #10 took berth #2
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #14 released berth #3
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #25 took berth #3
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #18 released berth #1
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #23 took berth #1
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #23 released berth #1
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #26 took berth #1
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #10 released berth #2
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #27 took berth #2
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #12 released berth #5
+2016-06-20 23:46:14 INFO  Ship:26 - Ship #28 took berth #5
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #27 released berth #2
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #24 released berth #4
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #26 released berth #1
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #25 released berth #3
+2016-06-20 23:46:14 INFO  Ship:34 - Ship #28 released berth #5
+2016-06-20 23:47:34 INFO  Berth:18 - Berth #1 is created
+2016-06-20 23:47:34 INFO  Berth:18 - Berth #2 is created
+2016-06-20 23:47:34 INFO  Berth:18 - Berth #3 is created
+2016-06-20 23:47:34 INFO  Berth:18 - Berth #4 is created
+2016-06-20 23:47:34 INFO  Berth:18 - Berth #5 is created
+2016-06-20 23:47:34 INFO  Port:59 - Port is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #9 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #10 is created
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #9 took berth #1
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #11 is created
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #10 took berth #2
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #11 took berth #3
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #12 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #13 is created
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #12 took berth #4
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #13 took berth #5
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #14 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #15 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #16 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #17 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #18 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #19 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #20 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #21 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #22 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #23 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #24 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #25 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #26 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #27 is created
+2016-06-20 23:47:34 INFO  Ship:18 - Ship #28 is created
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #13 released berth #5
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #14 took berth #5
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #14 released berth #5
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #15 took berth #5
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #12 released berth #4
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #16 took berth #4
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #11 released berth #3
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #17 took berth #3
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #9 released berth #1
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #18 took berth #1
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #10 released berth #2
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #19 took berth #2
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #18 released berth #1
+2016-06-20 23:47:34 INFO  Ship:26 - Ship #20 took berth #1
+2016-06-20 23:47:34 ERROR Ship:29 - Ship #21  Timeout
+2016-06-20 23:47:34 ERROR Ship:29 - Ship #22  Timeout
+2016-06-20 23:47:34 ERROR Ship:29 - Ship #23  Timeout
+2016-06-20 23:47:34 ERROR Ship:29 - Ship #25  Timeout
+2016-06-20 23:47:34 ERROR Ship:29 - Ship #24  Timeout
+2016-06-20 23:47:34 ERROR Ship:29 - Ship #27  Timeout
+2016-06-20 23:47:34 ERROR Ship:29 - Ship #26  Timeout
+2016-06-20 23:47:34 ERROR Ship:29 - Ship #28  Timeout
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #15 released berth #5
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #20 released berth #1
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #16 released berth #4
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #17 released berth #3
+2016-06-20 23:47:34 INFO  Ship:34 - Ship #19 released berth #2
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #21  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #10  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #12  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #14  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #16  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #18  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #20  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #22  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #24  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #26  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #28  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #25  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #23  Timeout
+2016-06-20 23:48:27 ERROR Ship:29 - Ship #27  Timeout
+2016-06-20 23:49:19 INFO  Berth:18 - Berth #1 is created
+2016-06-20 23:49:19 INFO  Berth:18 - Berth #2 is created
+2016-06-20 23:49:19 INFO  Berth:18 - Berth #3 is created
+2016-06-20 23:49:19 INFO  Berth:18 - Berth #4 is created
+2016-06-20 23:49:19 INFO  Berth:18 - Berth #5 is created
+2016-06-20 23:49:19 INFO  Port:59 - Port is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #9 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #10 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #11 is created
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #9 took berth #1
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #12 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #13 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #14 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #15 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #16 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #17 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #18 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #19 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #20 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #21 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #22 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #23 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #24 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #25 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #26 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #27 is created
+2016-06-20 23:49:19 INFO  Ship:18 - Ship #28 is created
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #9 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #14 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #14 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #15 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #15 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #16 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #16 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #17 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #17 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #18 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #18 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #19 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #19 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #20 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #20 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #21 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #21 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #22 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #22 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #23 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #23 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #24 took berth #1
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #24 released berth #1
+2016-06-20 23:49:19 INFO  Ship:26 - Ship #25 took berth #1
+2016-06-20 23:49:19 ERROR Ship:29 - Ship #26  Timeout
+2016-06-20 23:49:19 ERROR Ship:29 - Ship #28  Timeout
+2016-06-20 23:49:19 ERROR Ship:29 - Ship #27  Timeout
+2016-06-20 23:49:19 INFO  Ship:34 - Ship #25 released berth #1

@@ -1,0 +1,1587 @@
+2016-06-21 07:50:56 INFO  Berth:18 - Berth #1 is created
+2016-06-21 07:50:56 INFO  Berth:18 - Berth #2 is created
+2016-06-21 07:50:56 INFO  Berth:18 - Berth #3 is created
+2016-06-21 07:50:56 INFO  Berth:18 - Berth #4 is created
+2016-06-21 07:50:56 INFO  Berth:18 - Berth #5 is created
+2016-06-21 07:50:56 INFO  Port:59 - Port is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #9 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #10 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #11 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #12 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #13 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #14 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #15 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #16 is created
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #9 took berth #1
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #17 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #18 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #19 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #20 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #21 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #22 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #23 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #24 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #25 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #26 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #27 is created
+2016-06-21 07:50:56 INFO  Ship:18 - Ship #28 is created
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #9 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #11 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #11 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #10 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #10 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #16 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #16 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #17 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #17 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #18 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #18 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #19 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #19 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #20 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #20 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #21 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #21 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #22 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #22 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #23 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #23 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #24 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #24 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #25 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #25 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #26 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #26 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #27 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #27 released berth #1
+2016-06-21 07:50:56 INFO  Ship:26 - Ship #28 took berth #1
+2016-06-21 07:50:56 INFO  Ship:34 - Ship #28 released berth #1
+2016-06-21 07:51:21 INFO  Berth:18 - Berth #1 is created
+2016-06-21 07:51:21 INFO  Berth:18 - Berth #2 is created
+2016-06-21 07:51:21 INFO  Berth:18 - Berth #3 is created
+2016-06-21 07:51:21 INFO  Berth:18 - Berth #4 is created
+2016-06-21 07:51:21 INFO  Berth:18 - Berth #5 is created
+2016-06-21 07:51:21 INFO  Port:59 - Port is created
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #9 is created
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #10 is created
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #11 is created
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #10 took berth #2
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #11 took berth #3
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #12 is created
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #9 took berth #1
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #12 took berth #4
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #13 is created
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #11 released berth #3
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #14 is created
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #12 released berth #4
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #10 released berth #2
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #15 is created
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #9 released berth #1
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #16 is created
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #15 took berth #4
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #14 took berth #5
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #15 released berth #4
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #16 took berth #2
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #17 is created
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #13 took berth #3
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #17 took berth #1
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #16 released berth #2
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #18 is created
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #14 released berth #5
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #17 released berth #1
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #18 took berth #4
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #18 released berth #4
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #19 is created
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #13 released berth #3
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #19 took berth #2
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #20 is created
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #19 released berth #2
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #21 is created
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #20 took berth #5
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #20 released berth #5
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #22 is created
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #21 took berth #1
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #22 took berth #4
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #23 is created
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #21 released berth #1
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #23 took berth #3
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #24 is created
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #22 released berth #4
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #23 released berth #3
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #24 took berth #2
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #25 is created
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #24 released berth #2
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #26 is created
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #27 is created
+2016-06-21 07:51:21 INFO  Ship:18 - Ship #28 is created
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #25 took berth #5
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #27 took berth #1
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #26 took berth #4
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #26 released berth #4
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #25 released berth #5
+2016-06-21 07:51:21 INFO  Ship:26 - Ship #28 took berth #3
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #27 released berth #1
+2016-06-21 07:51:21 INFO  Ship:34 - Ship #28 released berth #3
+2016-06-21 07:52:15 INFO  Berth:18 - Berth #1 is created
+2016-06-21 07:52:15 INFO  Berth:18 - Berth #2 is created
+2016-06-21 07:52:15 INFO  Berth:18 - Berth #3 is created
+2016-06-21 07:52:15 INFO  Berth:18 - Berth #4 is created
+2016-06-21 07:52:15 INFO  Berth:18 - Berth #5 is created
+2016-06-21 07:52:15 INFO  Port:59 - Port is created
+2016-06-21 07:52:15 INFO  Ship:18 - Ship #9 is created
+2016-06-21 07:52:15 INFO  Ship:18 - Ship #10 is created
+2016-06-21 07:52:15 INFO  Ship:18 - Ship #11 is created
+2016-06-21 07:52:15 INFO  Ship:26 - Ship #10 took berth #1
+2016-06-21 07:52:15 INFO  Ship:18 - Ship #12 is created
+2016-06-21 07:52:15 INFO  Ship:18 - Ship #13 is created
+2016-06-21 07:52:15 INFO  Ship:34 - Ship #10 released berth #1
+2016-06-21 07:52:15 INFO  Ship:18 - Ship #14 is created
+2016-06-21 07:52:15 INFO  Ship:26 - Ship #11 took berth #1
+2016-06-21 07:52:15 INFO  Ship:34 - Ship #11 released berth #1
+2016-06-21 07:52:16 INFO  Ship:26 - Ship #12 took berth #1
+2016-06-21 07:52:16 INFO  Ship:34 - Ship #12 released berth #1
+2016-06-21 07:52:16 INFO  Ship:26 - Ship #13 took berth #1
+2016-06-21 07:52:16 INFO  Ship:34 - Ship #13 released berth #1
+2016-06-21 07:52:16 INFO  Ship:26 - Ship #14 took berth #1
+2016-06-21 07:52:16 INFO  Ship:34 - Ship #14 released berth #1
+2016-06-21 07:52:55 INFO  Berth:18 - Berth #1 is created
+2016-06-21 07:52:55 INFO  Berth:18 - Berth #2 is created
+2016-06-21 07:52:55 INFO  Port:59 - Port is created
+2016-06-21 07:52:55 INFO  Ship:18 - Ship #9 is created
+2016-06-21 07:52:55 INFO  Ship:18 - Ship #10 is created
+2016-06-21 07:52:55 INFO  Ship:18 - Ship #11 is created
+2016-06-21 07:52:55 INFO  Ship:26 - Ship #10 took berth #2
+2016-06-21 07:52:55 INFO  Ship:18 - Ship #12 is created
+2016-06-21 07:52:55 INFO  Ship:26 - Ship #9 took berth #1
+2016-06-21 07:52:55 INFO  Ship:18 - Ship #13 is created
+2016-06-21 07:52:55 INFO  Ship:18 - Ship #14 is created
+2016-06-21 07:52:55 INFO  Ship:34 - Ship #9 released berth #1
+2016-06-21 07:52:55 INFO  Ship:34 - Ship #10 released berth #2
+2016-06-21 07:52:55 INFO  Ship:26 - Ship #11 took berth #1
+2016-06-21 07:52:55 INFO  Ship:26 - Ship #12 took berth #2
+2016-06-21 07:52:55 INFO  Ship:34 - Ship #12 released berth #2
+2016-06-21 07:52:55 INFO  Ship:34 - Ship #11 released berth #1
+2016-06-21 07:52:55 INFO  Ship:26 - Ship #13 took berth #2
+2016-06-21 07:52:55 INFO  Ship:26 - Ship #14 took berth #1
+2016-06-21 07:52:55 INFO  Ship:34 - Ship #13 released berth #2
+2016-06-21 07:52:55 INFO  Ship:34 - Ship #14 released berth #1
+2016-06-21 08:03:17 INFO  Berth:18 - Berth #1 is created
+2016-06-21 08:03:17 INFO  Berth:18 - Berth #2 is created
+2016-06-21 08:03:17 INFO  Port:59 - Port is created
+2016-06-21 08:03:17 INFO  Ship:20 - Ship #1 is created
+2016-06-21 08:03:17 INFO  Ship:20 - Ship #2 is created
+2016-06-21 08:03:17 INFO  Ship:31 - Ship #1 took berth #1
+2016-06-21 08:03:17 INFO  Ship:20 - Ship #3 is created
+2016-06-21 08:03:17 INFO  Ship:31 - Ship #2 took berth #2
+2016-06-21 08:03:17 INFO  Ship:20 - Ship #4 is created
+2016-06-21 08:03:17 INFO  Ship:39 - Ship #1 released berth #1
+2016-06-21 08:03:17 INFO  Ship:20 - Ship #5 is created
+2016-06-21 08:03:17 INFO  Ship:31 - Ship #3 took berth #1
+2016-06-21 08:03:17 INFO  Ship:39 - Ship #2 released berth #2
+2016-06-21 08:03:17 INFO  Ship:39 - Ship #3 released berth #1
+2016-06-21 08:03:17 INFO  Ship:20 - Ship #6 is created
+2016-06-21 08:03:17 INFO  Ship:31 - Ship #5 took berth #1
+2016-06-21 08:03:17 INFO  Ship:31 - Ship #4 took berth #2
+2016-06-21 08:03:17 INFO  Ship:39 - Ship #5 released berth #1
+2016-06-21 08:03:17 INFO  Ship:39 - Ship #4 released berth #2
+2016-06-21 08:03:17 INFO  Ship:31 - Ship #6 took berth #1
+2016-06-21 08:03:17 INFO  Ship:39 - Ship #6 released berth #1
+2016-06-21 08:30:09 INFO  Berth:18 - Berth #1 is created
+2016-06-21 08:30:09 INFO  Berth:18 - Berth #2 is created
+2016-06-21 08:30:09 INFO  Port:61 - Port is created
+2016-06-21 08:30:09 INFO  Ship:20 - Ship #1 is created
+2016-06-21 08:30:09 INFO  Ship:20 - Ship #2 is created
+2016-06-21 08:30:09 INFO  Ship:20 - Ship #3 is created
+2016-06-21 08:30:09 INFO  Ship:31 - Ship #1 took berth #1
+2016-06-21 08:30:09 INFO  Ship:20 - Ship #4 is created
+2016-06-21 08:30:09 INFO  Ship:39 - Ship #1 released berth #1
+2016-06-21 08:30:09 INFO  Ship:20 - Ship #5 is created
+2016-06-21 08:30:09 INFO  Ship:31 - Ship #3 took berth #1
+2016-06-21 08:30:09 INFO  Ship:20 - Ship #6 is created
+2016-06-21 08:30:09 INFO  Ship:39 - Ship #3 released berth #1
+2016-06-21 08:30:09 INFO  Ship:31 - Ship #4 took berth #1
+2016-06-21 08:30:09 INFO  Ship:39 - Ship #4 released berth #1
+2016-06-21 08:30:09 INFO  Ship:31 - Ship #5 took berth #1
+2016-06-21 08:30:09 INFO  Ship:39 - Ship #5 released berth #1
+2016-06-21 08:30:09 INFO  Ship:31 - Ship #6 took berth #1
+2016-06-21 08:30:09 INFO  Ship:39 - Ship #6 released berth #1
+2016-06-21 08:30:38 INFO  Berth:18 - Berth #1 is created
+2016-06-21 08:30:38 INFO  Berth:18 - Berth #2 is created
+2016-06-21 08:30:38 INFO  Port:61 - Port is created
+2016-06-21 08:30:38 INFO  Ship:20 - Ship #1 is created
+2016-06-21 08:30:38 INFO  Ship:20 - Ship #2 is created
+2016-06-21 08:30:38 INFO  Ship:20 - Ship #3 is created
+2016-06-21 08:30:38 INFO  Ship:20 - Ship #4 is created
+2016-06-21 08:30:38 INFO  Ship:20 - Ship #5 is created
+2016-06-21 08:30:38 INFO  Ship:31 - Ship #1 took berth #1
+2016-06-21 08:30:38 INFO  Ship:20 - Ship #6 is created
+2016-06-21 08:30:38 INFO  Ship:39 - Ship #1 released berth #1
+2016-06-21 08:30:38 INFO  Ship:31 - Ship #3 took berth #2
+2016-06-21 08:30:38 INFO  Ship:39 - Ship #3 released berth #2
+2016-06-21 08:30:38 INFO  Ship:31 - Ship #5 took berth #1
+2016-06-21 08:30:38 INFO  Ship:31 - Ship #2 took berth #2
+2016-06-21 08:30:38 INFO  Ship:39 - Ship #5 released berth #1
+2016-06-21 08:30:38 INFO  Ship:31 - Ship #4 took berth #1
+2016-06-21 08:30:38 INFO  Ship:39 - Ship #2 released berth #2
+2016-06-21 08:30:38 INFO  Ship:31 - Ship #6 took berth #2
+2016-06-21 08:30:38 INFO  Ship:39 - Ship #4 released berth #1
+2016-06-21 08:30:38 INFO  Ship:39 - Ship #6 released berth #2
+2016-06-21 08:31:03 INFO  Berth:18 - Berth #1 is created
+2016-06-21 08:31:03 INFO  Berth:18 - Berth #2 is created
+2016-06-21 08:31:03 INFO  Port:61 - Port is created
+2016-06-21 08:31:03 INFO  Ship:20 - Ship #1 is created
+2016-06-21 08:31:03 INFO  Ship:20 - Ship #2 is created
+2016-06-21 08:31:03 INFO  Ship:20 - Ship #3 is created
+2016-06-21 08:31:03 INFO  Ship:31 - Ship #2 took berth #1
+2016-06-21 08:31:03 INFO  Ship:39 - Ship #2 released berth #1
+2016-06-21 08:31:03 INFO  Ship:20 - Ship #4 is created
+2016-06-21 08:31:03 INFO  Ship:31 - Ship #3 took berth #1
+2016-06-21 08:31:03 INFO  Ship:20 - Ship #5 is created
+2016-06-21 08:31:03 INFO  Ship:39 - Ship #3 released berth #1
+2016-06-21 08:31:03 INFO  Ship:20 - Ship #6 is created
+2016-06-21 08:31:03 INFO  Ship:31 - Ship #4 took berth #1
+2016-06-21 08:31:03 INFO  Ship:20 - Ship #7 is created
+2016-06-21 08:31:03 INFO  Ship:39 - Ship #4 released berth #1
+2016-06-21 08:31:03 INFO  Ship:20 - Ship #8 is created
+2016-06-21 08:31:03 INFO  Ship:31 - Ship #5 took berth #1
+2016-06-21 08:31:03 INFO  Ship:39 - Ship #5 released berth #1
+2016-06-21 08:31:03 INFO  Ship:20 - Ship #9 is created
+2016-06-21 08:31:03 INFO  Ship:20 - Ship #10 is created
+2016-06-21 08:31:03 INFO  Ship:31 - Ship #6 took berth #1
+2016-06-21 08:31:03 INFO  Ship:39 - Ship #6 released berth #1
+2016-06-21 08:31:03 INFO  Ship:31 - Ship #7 took berth #1
+2016-06-21 08:31:03 INFO  Ship:39 - Ship #7 released berth #1
+2016-06-21 08:31:03 INFO  Ship:31 - Ship #9 took berth #1
+2016-06-21 08:31:03 INFO  Ship:39 - Ship #9 released berth #1
+2016-06-21 08:31:03 INFO  Ship:31 - Ship #10 took berth #1
+2016-06-21 08:31:03 INFO  Ship:39 - Ship #10 released berth #1
+2016-06-21 08:31:03 INFO  Ship:31 - Ship #8 took berth #1
+2016-06-21 08:31:03 INFO  Ship:39 - Ship #8 released berth #1
+2016-06-21 08:31:21 INFO  Berth:18 - Berth #1 is created
+2016-06-21 08:31:21 INFO  Berth:18 - Berth #2 is created
+2016-06-21 08:31:21 INFO  Port:61 - Port is created
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #1 is created
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #2 is created
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #3 is created
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #1 took berth #1
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #4 is created
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #5 is created
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #6 is created
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #1 released berth #1
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #7 is created
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #3 took berth #1
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #8 is created
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #3 released berth #1
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #9 is created
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #4 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #4 released berth #1
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #10 is created
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #5 took berth #1
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #11 is created
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #12 is created
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #13 is created
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #5 released berth #1
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #14 is created
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #6 took berth #1
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #15 is created
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #6 released berth #1
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #16 is created
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #17 is created
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #18 is created
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #19 is created
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #7 took berth #1
+2016-06-21 08:31:21 INFO  Ship:20 - Ship #20 is created
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #7 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #8 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #8 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #10 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #10 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #9 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #9 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #11 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #11 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #12 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #12 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #13 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #13 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #18 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #18 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #15 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #15 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #17 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #17 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #14 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #14 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #16 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #16 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #19 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #19 released berth #1
+2016-06-21 08:31:21 INFO  Ship:31 - Ship #20 took berth #1
+2016-06-21 08:31:21 INFO  Ship:39 - Ship #20 released berth #1
+2016-06-21 08:31:31 INFO  Berth:18 - Berth #1 is created
+2016-06-21 08:31:31 INFO  Berth:18 - Berth #2 is created
+2016-06-21 08:31:31 INFO  Port:61 - Port is created
+2016-06-21 08:31:31 INFO  Ship:20 - Ship #1 is created
+2016-06-21 08:31:31 INFO  Ship:20 - Ship #2 is created
+2016-06-21 08:31:31 INFO  Ship:20 - Ship #3 is created
+2016-06-21 08:31:31 INFO  Ship:31 - Ship #1 took berth #1
+2016-06-21 08:31:31 INFO  Ship:20 - Ship #4 is created
+2016-06-21 08:31:31 INFO  Ship:20 - Ship #5 is created
+2016-06-21 08:31:31 INFO  Ship:31 - Ship #2 took berth #2
+2016-06-21 08:31:31 INFO  Ship:20 - Ship #6 is created
+2016-06-21 08:31:31 INFO  Ship:39 - Ship #1 released berth #1
+2016-06-21 08:31:31 INFO  Ship:39 - Ship #2 released berth #2
+2016-06-21 08:31:31 INFO  Ship:31 - Ship #3 took berth #1
+2016-06-21 08:31:31 INFO  Ship:31 - Ship #4 took berth #2
+2016-06-21 08:31:31 INFO  Ship:39 - Ship #3 released berth #1
+2016-06-21 08:31:31 INFO  Ship:39 - Ship #4 released berth #2
+2016-06-21 08:31:31 INFO  Ship:31 - Ship #6 took berth #2
+2016-06-21 08:31:31 INFO  Ship:31 - Ship #5 took berth #1
+2016-06-21 08:31:31 INFO  Ship:39 - Ship #5 released berth #1
+2016-06-21 08:31:31 INFO  Ship:39 - Ship #6 released berth #2
+2016-06-21 08:32:20 INFO  Berth:18 - Berth #1 is created
+2016-06-21 08:32:20 INFO  Berth:18 - Berth #2 is created
+2016-06-21 08:32:20 INFO  Port:61 - Port is created
+2016-06-21 08:32:20 INFO  Ship:20 - Ship #1 is created
+2016-06-21 08:32:20 INFO  Ship:20 - Ship #2 is created
+2016-06-21 08:32:20 INFO  Ship:20 - Ship #3 is created
+2016-06-21 08:32:20 INFO  Ship:20 - Ship #4 is created
+2016-06-21 08:32:20 INFO  Ship:31 - Ship #1 took berth #1
+2016-06-21 08:32:20 INFO  Ship:39 - Ship #1 released berth #1
+2016-06-21 08:32:20 INFO  Ship:20 - Ship #5 is created
+2016-06-21 08:32:20 INFO  Ship:20 - Ship #6 is created
+2016-06-21 08:32:20 INFO  Ship:31 - Ship #3 took berth #2
+2016-06-21 08:32:20 INFO  Ship:39 - Ship #3 released berth #2
+2016-06-21 08:32:20 INFO  Ship:31 - Ship #5 took berth #1
+2016-06-21 08:32:20 INFO  Ship:39 - Ship #5 released berth #1
+2016-06-21 08:32:20 INFO  Ship:31 - Ship #2 took berth #2
+2016-06-21 08:32:20 INFO  Ship:39 - Ship #2 released berth #2
+2016-06-21 08:32:20 INFO  Ship:31 - Ship #4 took berth #1
+2016-06-21 08:32:20 INFO  Ship:39 - Ship #4 released berth #1
+2016-06-21 08:32:20 INFO  Ship:31 - Ship #6 took berth #2
+2016-06-21 08:32:20 INFO  Ship:39 - Ship #6 released berth #2
+2016-06-21 09:20:36 INFO  Berth:18 - Berth #1 is created
+2016-06-21 09:20:36 INFO  Berth:18 - Berth #2 is created
+2016-06-21 09:20:36 INFO  Port:60 - Port is created  capacity : 200  actual : 107
+2016-06-21 09:20:36 INFO  Ship:30 - Ship #1 is created  capacity : 19 state : false
+2016-06-21 09:20:36 INFO  Ship:30 - Ship #2 is created  capacity : 18 state : false
+2016-06-21 09:20:36 INFO  Ship:30 - Ship #3 is created  capacity : 6 state : false
+2016-06-21 09:20:36 INFO  Ship:45 - Ship #2 took berth #2
+2016-06-21 09:20:36 INFO  Ship:53 - Ship #2 released berth #2
+2016-06-21 09:20:36 INFO  Ship:45 - Ship #1 took berth #1
+2016-06-21 09:20:36 INFO  Ship:45 - Ship #3 took berth #2
+2016-06-21 09:20:36 INFO  Ship:30 - Ship #4 is created  capacity : 17 state : false
+2016-06-21 09:20:36 INFO  Ship:53 - Ship #3 released berth #2
+2016-06-21 09:20:36 INFO  Ship:45 - Ship #4 took berth #2
+2016-06-21 09:20:36 INFO  Ship:53 - Ship #1 released berth #1
+2016-06-21 09:20:36 INFO  Ship:53 - Ship #4 released berth #2
+2016-06-21 09:20:36 INFO  Ship:30 - Ship #5 is created  capacity : 23 state : false
+2016-06-21 09:20:36 INFO  Ship:30 - Ship #6 is created  capacity : 8 state : false
+2016-06-21 09:20:36 INFO  Ship:45 - Ship #5 took berth #1
+2016-06-21 09:20:36 INFO  Ship:53 - Ship #5 released berth #1
+2016-06-21 09:20:36 INFO  Ship:45 - Ship #6 took berth #2
+2016-06-21 09:20:36 INFO  Ship:53 - Ship #6 released berth #2
+2016-06-21 09:21:00 INFO  Berth:18 - Berth #1 is created
+2016-06-21 09:21:00 INFO  Berth:18 - Berth #2 is created
+2016-06-21 09:21:00 INFO  Port:60 - Port is created  capacity : 200  actual : 130
+2016-06-21 09:21:00 INFO  Ship:30 - Ship #1 is created  capacity : 14  state : true
+2016-06-21 09:21:00 INFO  Ship:30 - Ship #2 is created  capacity : 25  state : true
+2016-06-21 09:21:00 INFO  Ship:30 - Ship #3 is created  capacity : 0  state : false
+2016-06-21 09:21:00 INFO  Ship:30 - Ship #4 is created  capacity : 10  state : false
+2016-06-21 09:21:00 INFO  Ship:45 - Ship #3 took berth #1
+2016-06-21 09:21:00 INFO  Ship:53 - Ship #3 released berth #1
+2016-06-21 09:21:00 INFO  Ship:30 - Ship #5 is created  capacity : 6  state : true
+2016-06-21 09:21:00 INFO  Ship:45 - Ship #1 took berth #1
+2016-06-21 09:21:00 INFO  Ship:30 - Ship #6 is created  capacity : 14  state : true
+2016-06-21 09:21:00 INFO  Ship:53 - Ship #1 released berth #1
+2016-06-21 09:21:00 INFO  Ship:45 - Ship #4 took berth #1
+2016-06-21 09:21:00 INFO  Ship:53 - Ship #4 released berth #1
+2016-06-21 09:21:00 INFO  Ship:45 - Ship #5 took berth #1
+2016-06-21 09:21:00 INFO  Ship:53 - Ship #5 released berth #1
+2016-06-21 09:21:00 INFO  Ship:45 - Ship #6 took berth #1
+2016-06-21 09:21:00 INFO  Ship:53 - Ship #6 released berth #1
+2016-06-21 09:29:31 INFO  Berth:18 - Berth #1 is created
+2016-06-21 09:29:31 INFO  Berth:18 - Berth #2 is created
+2016-06-21 09:29:31 INFO  Port:60 - Port is created  capacity : 200  actual : 74
+2016-06-21 09:29:31 INFO  Ship:30 - Ship #1 is created  capacity : 4  state : false
+2016-06-21 09:29:31 INFO  Ship:30 - Ship #2 is created  capacity : 22  state : false
+2016-06-21 09:29:31 INFO  Ship:45 - Ship #1 took berth #1
+2016-06-21 09:29:31 INFO  Ship:30 - Ship #3 is created  capacity : 5  state : false
+2016-06-21 09:29:31 INFO  Ship:45 - Ship #2 took berth #2
+2016-06-21 09:29:31 INFO  Ship:53 - Ship #1 released berth #1
+2016-06-21 09:29:31 INFO  Ship:53 - Ship #2 released berth #2
+2016-06-21 09:29:31 INFO  Ship:30 - Ship #4 is created  capacity : 30  state : false
+2016-06-21 09:29:31 INFO  Ship:45 - Ship #3 took berth #1
+2016-06-21 09:29:31 INFO  Ship:45 - Ship #4 took berth #2
+2016-06-21 09:29:31 INFO  Ship:30 - Ship #5 is created  capacity : 18  state : false
+2016-06-21 09:29:31 INFO  Ship:53 - Ship #4 released berth #2
+2016-06-21 09:29:31 INFO  Ship:53 - Ship #3 released berth #1
+2016-06-21 09:29:31 INFO  Ship:45 - Ship #5 took berth #2
+2016-06-21 09:29:31 INFO  Ship:30 - Ship #6 is created  capacity : 27  state : true
+2016-06-21 09:29:31 INFO  Ship:53 - Ship #5 released berth #2
+2016-06-21 09:29:31 INFO  Ship:45 - Ship #6 took berth #1
+2016-06-21 09:29:31 INFO  Ship:53 - Ship #6 released berth #1
+2016-06-21 09:36:08 INFO  Berth:18 - Berth #1 is created
+2016-06-21 09:36:08 INFO  Berth:18 - Berth #2 is created
+2016-06-21 09:36:08 INFO  Port:60 - Port is created  capacity : 200  actual : 56
+2016-06-21 09:36:08 INFO  Ship:29 - Ship #1 is created  capacity : 9  state : false
+2016-06-21 09:36:08 INFO  Ship:29 - Ship #2 is created  capacity : 20  state : true
+2016-06-21 09:36:08 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 09:36:08 INFO  Ship:43 - Ship #2 took berth #2
+2016-06-21 09:36:08 ERROR Ship:52 - Ship #1  No cargo in the port
+2016-06-21 09:36:08 INFO  Ship:29 - Ship #3 is created  capacity : 4  state : false
+2016-06-21 09:36:08 ERROR Ship:52 - Ship #2  Port is overloaded
+2016-06-21 09:36:08 INFO  Ship:29 - Ship #4 is created  capacity : 6  state : false
+2016-06-21 09:36:08 INFO  Ship:56 - Ship #1 released berth #1
+2016-06-21 09:36:08 INFO  Ship:29 - Ship #5 is created  capacity : 20  state : true
+2016-06-21 09:36:08 INFO  Ship:56 - Ship #2 released berth #2
+2016-06-21 09:36:08 INFO  Ship:29 - Ship #6 is created  capacity : 5  state : true
+2016-06-21 09:36:08 INFO  Ship:43 - Ship #3 took berth #1
+2016-06-21 09:36:08 ERROR Ship:52 - Ship #3  No cargo in the port
+2016-06-21 09:36:08 INFO  Ship:43 - Ship #4 took berth #2
+2016-06-21 09:36:08 ERROR Ship:52 - Ship #4  No cargo in the port
+2016-06-21 09:36:08 INFO  Ship:56 - Ship #3 released berth #1
+2016-06-21 09:36:08 INFO  Ship:56 - Ship #4 released berth #2
+2016-06-21 09:36:08 INFO  Ship:43 - Ship #5 took berth #1
+2016-06-21 09:36:08 INFO  Ship:43 - Ship #6 took berth #2
+2016-06-21 09:36:08 ERROR Ship:52 - Ship #6  Port is overloaded
+2016-06-21 09:36:08 ERROR Ship:52 - Ship #5  Port is overloaded
+2016-06-21 09:36:08 INFO  Ship:56 - Ship #6 released berth #2
+2016-06-21 09:36:08 INFO  Ship:56 - Ship #5 released berth #1
+2016-06-21 09:37:36 INFO  Berth:18 - Berth #1 is created
+2016-06-21 09:37:36 INFO  Berth:18 - Berth #2 is created
+2016-06-21 09:37:36 INFO  Port:60 - Port is created  capacity : 200  actual : 120
+2016-06-21 09:37:36 INFO  Ship:29 - Ship #1 is created  capacity : 26  state : true
+2016-06-21 09:37:36 INFO  Ship:29 - Ship #2 is created  capacity : 13  state : false
+2016-06-21 09:37:45 INFO  Ship:29 - Ship #3 is created  capacity : 24  state : true
+2016-06-21 09:37:45 INFO  Ship:29 - Ship #4 is created  capacity : 21  state : true
+2016-06-21 09:37:45 INFO  Ship:29 - Ship #5 is created  capacity : 21  state : true
+2016-06-21 09:37:45 INFO  Ship:29 - Ship #6 is created  capacity : 6  state : true
+2016-06-21 09:39:15 INFO  Berth:18 - Berth #1 is created
+2016-06-21 09:39:15 INFO  Berth:18 - Berth #2 is created
+2016-06-21 09:39:15 INFO  Port:60 - Port is created  capacity : 200  actual : 159
+2016-06-21 09:39:15 INFO  Ship:29 - Ship #1 is created  capacity : 24  state : false
+2016-06-21 09:39:15 INFO  Ship:29 - Ship #2 is created  capacity : 22  state : true
+2016-06-21 09:39:15 INFO  Ship:29 - Ship #3 is created  capacity : 30  state : true
+2016-06-21 09:39:15 INFO  Ship:29 - Ship #4 is created  capacity : 20  state : false
+2016-06-21 09:39:15 INFO  Ship:29 - Ship #5 is created  capacity : 30  state : true
+2016-06-21 09:39:15 INFO  Ship:29 - Ship #6 is created  capacity : 23  state : false
+2016-06-21 09:39:15 INFO  Ship:43 - Ship #3 took berth #1
+2016-06-21 09:39:15 ERROR Ship:52 - Ship #3  Port is overloaded
+2016-06-21 09:39:15 INFO  Ship:56 - Ship #3 released berth #1
+2016-06-21 09:39:15 INFO  Ship:43 - Ship #4 took berth #2
+2016-06-21 09:39:15 ERROR Ship:52 - Ship #4  No cargo in the port
+2016-06-21 09:39:15 INFO  Ship:56 - Ship #4 released berth #2
+2016-06-21 09:39:15 INFO  Ship:43 - Ship #2 took berth #1
+2016-06-21 09:39:15 ERROR Ship:52 - Ship #2  Port is overloaded
+2016-06-21 09:39:15 INFO  Ship:56 - Ship #2 released berth #1
+2016-06-21 09:39:38 INFO  Ship:43 - Ship #6 took berth #2
+2016-06-21 09:39:38 ERROR Ship:52 - Ship #6  No cargo in the port
+2016-06-21 09:39:38 INFO  Ship:56 - Ship #6 released berth #2
+2016-06-21 09:39:38 INFO  Ship:43 - Ship #5 took berth #1
+2016-06-21 09:39:38 ERROR Ship:52 - Ship #5  Port is overloaded
+2016-06-21 09:39:38 INFO  Ship:56 - Ship #5 released berth #1
+2016-06-21 09:39:52 INFO  Ship:43 - Ship #1 took berth #2
+2016-06-21 09:41:23 INFO  Berth:18 - Berth #1 is created
+2016-06-21 09:41:23 INFO  Berth:18 - Berth #2 is created
+2016-06-21 09:41:23 INFO  Port:60 - Port is created  capacity : 200  actual : 14
+2016-06-21 09:41:23 INFO  Ship:29 - Ship #1 is created  capacity : 14  state : false
+2016-06-21 09:41:23 INFO  Ship:29 - Ship #2 is created  capacity : 30  state : false
+2016-06-21 09:41:23 INFO  Ship:29 - Ship #3 is created  capacity : 1  state : false
+2016-06-21 09:41:23 INFO  Ship:29 - Ship #4 is created  capacity : 26  state : true
+2016-06-21 09:41:23 INFO  Ship:29 - Ship #5 is created  capacity : 26  state : true
+2016-06-21 09:41:23 INFO  Ship:29 - Ship #6 is created  capacity : 28  state : true
+2016-06-21 09:41:25 INFO  Ship:43 - Ship #2 took berth #1
+2016-06-21 09:41:25 INFO  Ship:56 - Ship #2 released berth #1
+2016-06-21 09:41:25 INFO  Ship:43 - Ship #6 took berth #2
+2016-06-21 09:41:25 ERROR Ship:52 - Ship #6  Port is overloaded
+2016-06-21 09:41:25 INFO  Ship:56 - Ship #6 released berth #2
+2016-06-21 09:41:25 INFO  Ship:43 - Ship #4 took berth #1
+2016-06-21 09:41:25 ERROR Ship:52 - Ship #4  Port is overloaded
+2016-06-21 09:41:25 INFO  Ship:56 - Ship #4 released berth #1
+2016-06-21 09:41:25 INFO  Ship:43 - Ship #5 took berth #2
+2016-06-21 09:41:25 ERROR Ship:52 - Ship #5  Port is overloaded
+2016-06-21 09:41:25 INFO  Ship:43 - Ship #3 took berth #1
+2016-06-21 09:41:25 ERROR Ship:52 - Ship #3  No cargo in the port
+2016-06-21 09:41:25 INFO  Ship:56 - Ship #5 released berth #2
+2016-06-21 09:41:25 INFO  Ship:56 - Ship #3 released berth #1
+2016-06-21 09:41:26 INFO  Ship:43 - Ship #1 took berth #2
+2016-06-21 09:43:11 INFO  Berth:18 - Berth #1 is created
+2016-06-21 09:43:11 INFO  Berth:18 - Berth #2 is created
+2016-06-21 09:43:11 INFO  Port:60 - Port is created  capacity : 200  actual : 60
+2016-06-21 09:43:11 INFO  Ship:29 - Ship #1 is created  capacity : 21  state : false
+2016-06-21 09:43:11 INFO  Ship:29 - Ship #2 is created  capacity : 9  state : false
+2016-06-21 09:43:11 INFO  Ship:29 - Ship #3 is created  capacity : 2  state : false
+2016-06-21 09:43:11 INFO  Ship:43 - Ship #2 took berth #2
+2016-06-21 09:43:11 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 09:43:11 INFO  Ship:56 - Ship #2 released berth #2
+2016-06-21 09:43:11 INFO  Ship:29 - Ship #4 is created  capacity : 9  state : true
+2016-06-21 09:43:11 INFO  Ship:43 - Ship #3 took berth #2
+2016-06-21 09:43:11 INFO  Ship:56 - Ship #1 released berth #1
+2016-06-21 09:43:11 INFO  Ship:56 - Ship #3 released berth #2
+2016-06-21 09:43:11 INFO  Ship:29 - Ship #5 is created  capacity : 25  state : true
+2016-06-21 09:43:11 INFO  Ship:43 - Ship #4 took berth #1
+2016-06-21 09:43:11 INFO  Ship:43 - Ship #5 took berth #2
+2016-06-21 09:43:11 INFO  Ship:46 - Ship #4 unloaded 9  port_actual 37
+2016-06-21 09:43:11 INFO  Ship:29 - Ship #6 is created  capacity : 11  state : false
+2016-06-21 09:43:11 INFO  Ship:56 - Ship #4 released berth #1
+2016-06-21 09:43:11 INFO  Ship:46 - Ship #5 unloaded 25  port_actual 62
+2016-06-21 09:43:11 INFO  Ship:43 - Ship #6 took berth #1
+2016-06-21 09:43:11 INFO  Ship:56 - Ship #5 released berth #2
+2016-06-21 09:43:11 INFO  Ship:56 - Ship #6 released berth #1
+2016-06-21 09:44:00 INFO  Berth:18 - Berth #1 is created
+2016-06-21 09:44:00 INFO  Berth:18 - Berth #2 is created
+2016-06-21 09:44:00 INFO  Port:60 - Port is created  capacity : 200  actual : 42
+2016-06-21 09:44:00 INFO  Ship:29 - Ship #1 is created  capacity : 13  state : true
+2016-06-21 09:44:00 INFO  Ship:29 - Ship #2 is created  capacity : 23  state : false
+2016-06-21 09:44:00 INFO  Ship:29 - Ship #3 is created  capacity : 17  state : false
+2016-06-21 09:44:00 INFO  Ship:43 - Ship #2 took berth #1
+2016-06-21 09:44:00 INFO  Ship:50 - Ship #2 loaded 23  port_actual 19
+2016-06-21 09:44:00 INFO  Ship:29 - Ship #4 is created  capacity : 29  state : true
+2016-06-21 09:44:00 INFO  Ship:57 - Ship #2 released berth #1
+2016-06-21 09:44:00 INFO  Ship:29 - Ship #5 is created  capacity : 24  state : true
+2016-06-21 09:44:00 INFO  Ship:43 - Ship #3 took berth #1
+2016-06-21 09:44:00 INFO  Ship:29 - Ship #6 is created  capacity : 15  state : false
+2016-06-21 09:44:00 INFO  Ship:50 - Ship #3 loaded 17  port_actual 2
+2016-06-21 09:44:00 INFO  Ship:57 - Ship #3 released berth #1
+2016-06-21 09:44:00 INFO  Ship:43 - Ship #4 took berth #1
+2016-06-21 09:44:00 INFO  Ship:46 - Ship #4 unloaded 29  port_actual 31
+2016-06-21 09:44:00 INFO  Ship:57 - Ship #4 released berth #1
+2016-06-21 09:44:00 INFO  Ship:43 - Ship #5 took berth #1
+2016-06-21 09:44:00 INFO  Ship:46 - Ship #5 unloaded 24  port_actual 55
+2016-06-21 09:44:00 INFO  Ship:57 - Ship #5 released berth #1
+2016-06-21 09:44:00 INFO  Ship:43 - Ship #6 took berth #1
+2016-06-21 09:44:00 INFO  Ship:50 - Ship #6 loaded 15  port_actual 40
+2016-06-21 09:44:00 INFO  Ship:57 - Ship #6 released berth #1
+2016-06-21 09:44:59 INFO  Berth:18 - Berth #1 is created
+2016-06-21 09:44:59 INFO  Berth:18 - Berth #2 is created
+2016-06-21 09:44:59 INFO  Port:60 - Port is created  capacity : 200  actual : 105
+2016-06-21 09:44:59 INFO  Ship:29 - Ship #1 is created  capacity : 25  state : false
+2016-06-21 09:44:59 INFO  Ship:29 - Ship #2 is created  capacity : 1  state : true
+2016-06-21 09:44:59 INFO  Ship:29 - Ship #3 is created  capacity : 11  state : false
+2016-06-21 09:44:59 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 09:44:59 INFO  Ship:29 - Ship #4 is created  capacity : 6  state : true
+2016-06-21 09:44:59 INFO  Ship:43 - Ship #2 took berth #2
+2016-06-21 09:44:59 INFO  Ship:29 - Ship #5 is created  capacity : 22  state : false
+2016-06-21 09:44:59 INFO  Ship:50 - Ship #1 loaded 25  port_actual 80
+2016-06-21 09:44:59 INFO  Ship:57 - Ship #1 released berth #1
+2016-06-21 09:44:59 INFO  Ship:29 - Ship #6 is created  capacity : 24  state : false
+2016-06-21 09:44:59 INFO  Ship:46 - Ship #2 unloaded 1  port_actual 81
+2016-06-21 09:44:59 INFO  Ship:57 - Ship #2 released berth #2
+2016-06-21 09:44:59 INFO  Ship:43 - Ship #3 took berth #1
+2016-06-21 09:44:59 INFO  Ship:50 - Ship #3 loaded 11  port_actual 70
+2016-06-21 09:44:59 INFO  Ship:57 - Ship #3 released berth #1
+2016-06-21 09:44:59 INFO  Ship:43 - Ship #4 took berth #2
+2016-06-21 09:44:59 INFO  Ship:43 - Ship #5 took berth #1
+2016-06-21 09:44:59 INFO  Ship:46 - Ship #4 unloaded 6  port_actual 76
+2016-06-21 09:44:59 INFO  Ship:50 - Ship #5 loaded 22  port_actual 54
+2016-06-21 09:44:59 INFO  Ship:57 - Ship #4 released berth #2
+2016-06-21 09:44:59 INFO  Ship:57 - Ship #5 released berth #1
+2016-06-21 09:44:59 INFO  Ship:43 - Ship #6 took berth #2
+2016-06-21 09:44:59 INFO  Ship:50 - Ship #6 loaded 24  port_actual 30
+2016-06-21 09:44:59 INFO  Ship:57 - Ship #6 released berth #2
+2016-06-21 10:31:54 INFO  Berth:18 - Berth #1 is created
+2016-06-21 10:31:54 INFO  Berth:18 - Berth #2 is created
+2016-06-21 10:31:54 INFO  Port:60 - Port is created  capacity : 200  actual : 8
+2016-06-21 10:31:54 INFO  Ship:29 - Ship #1 is created  capacity : 12  state : false
+2016-06-21 10:31:54 INFO  Ship:29 - Ship #2 is created  capacity : 19  state : true
+2016-06-21 10:31:54 INFO  Ship:29 - Ship #3 is created  capacity : 4  state : true
+2016-06-21 10:31:54 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 10:31:54 INFO  Ship:29 - Ship #4 is created  capacity : 15  state : true
+2016-06-21 10:31:54 INFO  Ship:43 - Ship #2 took berth #2
+2016-06-21 10:31:54 INFO  Ship:47 - Ship #2 unloaded 19  port_actual 27
+2016-06-21 10:31:54 INFO  Ship:74 - Ship #2 released berth #2
+2016-06-21 10:31:54 INFO  Ship:29 - Ship #5 is created  capacity : 26  state : false
+2016-06-21 10:31:54 INFO  Ship:29 - Ship #6 is created  capacity : 16  state : false
+2016-06-21 10:31:54 INFO  Ship:43 - Ship #3 took berth #2
+2016-06-21 10:31:54 INFO  Ship:47 - Ship #3 unloaded 4  port_actual 31
+2016-06-21 10:31:54 INFO  Ship:74 - Ship #3 released berth #2
+2016-06-21 10:31:54 INFO  Ship:43 - Ship #4 took berth #2
+2016-06-21 10:31:54 INFO  Ship:47 - Ship #4 unloaded 15  port_actual 46
+2016-06-21 10:31:54 INFO  Ship:74 - Ship #4 released berth #2
+2016-06-21 10:31:54 INFO  Ship:43 - Ship #5 took berth #2
+2016-06-21 10:31:54 INFO  Ship:59 - Ship #5 loaded 26  port_actual 20
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #1 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:59 - Ship #1 loaded 12  port_actual 8
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #5 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #1 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #5 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #1 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #5 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #1 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:74 - Ship #1 released berth #1
+2016-06-21 10:31:54 INFO  Ship:43 - Ship #6 took berth #1
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #5 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:74 - Ship #5 released berth #2
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #6 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #6 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #6 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #6 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:63 - Ship #6 is waiting : Port is overloaded
+2016-06-21 10:31:54 INFO  Ship:74 - Ship #6 released berth #1
+2016-06-21 10:36:20 INFO  Berth:18 - Berth #1 is created
+2016-06-21 10:36:20 INFO  Berth:18 - Berth #2 is created
+2016-06-21 10:36:20 INFO  Berth:18 - Berth #3 is created
+2016-06-21 10:36:20 INFO  Berth:18 - Berth #4 is created
+2016-06-21 10:36:20 INFO  Berth:18 - Berth #5 is created
+2016-06-21 10:36:20 INFO  Port:34 - Port is created  capacity : 200  actual : 23
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #1 is created  capacity : 25  state : false
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #2 is created  capacity : 10  state : true
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #3 is created  capacity : 12  state : true
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #4 is created  capacity : 13  state : true
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #2 took berth #2
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #2 unloaded 10  port_actual 33
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #2 released berth #2
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #3 took berth #3
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #3 unloaded 12  port_actual 45
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #4 took berth #4
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #5 is created  capacity : 10  state : false
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #6 is created  capacity : 11  state : true
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #4 unloaded 13  port_actual 58
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #3 released berth #3
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #4 released berth #4
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #6 took berth #2
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #7 is created  capacity : 13  state : true
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #5 took berth #5
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #5 loaded 10  port_actual 59
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #8 is created  capacity : 1  state : false
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #6 unloaded 11  port_actual 69
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #6 released berth #2
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #9 is created  capacity : 21  state : true
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #5 loaded 10  port_actual 49
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #7 took berth #3
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #5 loaded 10  port_actual 39
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #9 took berth #2
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #10 is created  capacity : 19  state : false
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #8 took berth #4
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #1 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #8 loaded 1  port_actual 62
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #11 is created  capacity : 8  state : false
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #9 unloaded 21  port_actual 63
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #5 loaded 10  port_actual 42
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #7 unloaded 13  port_actual 52
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #5 loaded 10  port_actual 26
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #9 released berth #2
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #12 is created  capacity : 20  state : true
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #8 loaded 1  port_actual 36
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #8 loaded 1  port_actual 25
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #1 loaded 25  port_actual 37
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #8 loaded 1  port_actual 24
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #10 took berth #2
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #13 is created  capacity : 1  state : false
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #5 released berth #5
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #7 released berth #3
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #11 took berth #5
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #12 took berth #3
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #12 unloaded 20  port_actual 24
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #12 released berth #3
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #14 is created  capacity : 4  state : false
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #10 loaded 19  port_actual 4
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #10 loaded 19  port_actual 5
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #15 is created  capacity : 4  state : true
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #8 loaded 1  port_actual 23
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #8 released berth #4
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #14 took berth #4
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #14 loaded 4  port_actual 1
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #13 took berth #3
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #13 loaded 1  port_actual 0
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #11 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #16 is created  capacity : 19  state : true
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #1 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #17 is created  capacity : 19  state : false
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #10 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #18 is created  capacity : 6  state : true
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #19 is created  capacity : 29  state : true
+2016-06-21 10:36:20 INFO  Ship:29 - Ship #20 is created  capacity : 26  state : false
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #14 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #13 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #1 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #11 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #10 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #14 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #13 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #1 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #1 released berth #1
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #11 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #15 took berth #1
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #15 unloaded 4  port_actual 4
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #15 released berth #1
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #10 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #16 took berth #1
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #10 released berth #2
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #16 unloaded 19  port_actual 23
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #16 released berth #1
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #17 took berth #2
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #18 took berth #1
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #17 loaded 19  port_actual 4
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #18 unloaded 6  port_actual 10
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #18 released berth #1
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #19 took berth #1
+2016-06-21 10:36:20 INFO  Ship:47 - Ship #19 unloaded 29  port_actual 39
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #19 released berth #1
+2016-06-21 10:36:20 INFO  Ship:43 - Ship #20 took berth #1
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #20 loaded 26  port_actual 13
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #14 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #14 loaded 4  port_actual 9
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #14 released berth #4
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #13 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #13 loaded 1  port_actual 8
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #13 released berth #3
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #11 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:59 - Ship #11 loaded 8  port_actual 0
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #11 released berth #5
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #17 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #20 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #17 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #20 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #17 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #20 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #17 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #17 released berth #2
+2016-06-21 10:36:20 INFO  Ship:63 - Ship #20 is waiting : Port is overloaded
+2016-06-21 10:36:20 INFO  Ship:74 - Ship #20 released berth #1
+2016-06-21 10:40:10 INFO  Berth:18 - Berth #1 is created
+2016-06-21 10:40:10 INFO  Berth:18 - Berth #2 is created
+2016-06-21 10:40:10 INFO  Berth:18 - Berth #3 is created
+2016-06-21 10:40:10 INFO  Berth:18 - Berth #4 is created
+2016-06-21 10:40:10 INFO  Berth:18 - Berth #5 is created
+2016-06-21 10:40:10 INFO  Port:34 - Port is created  capacity : 200  actual : 56
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #1 is created  capacity : 14  state : true
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #2 is created  capacity : 8  state : true
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #3 is created  capacity : 15  state : false
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #2 took berth #2
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #3 took berth #3
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #4 is created  capacity : 6  state : true
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #4 took berth #4
+2016-06-21 10:40:10 INFO  Ship:47 - Ship #4 unloaded 6  port_actual 69
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #5 is created  capacity : 4  state : false
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #3 loaded 15  port_actual 49
+2016-06-21 10:40:10 INFO  Ship:47 - Ship #2 unloaded 8  port_actual 64
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #3 loaded 15  port_actual 54
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #5 took berth #5
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #6 is created  capacity : 1  state : true
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #4 released berth #4
+2016-06-21 10:40:10 INFO  Ship:47 - Ship #1 unloaded 14  port_actual 63
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #6 took berth #4
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #7 is created  capacity : 1  state : true
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #5 loaded 4  port_actual 35
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #3 loaded 15  port_actual 39
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #2 released berth #2
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #3 loaded 15  port_actual 17
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #5 loaded 4  port_actual 32
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #8 is created  capacity : 3  state : false
+2016-06-21 10:40:10 INFO  Ship:47 - Ship #6 unloaded 1  port_actual 36
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #6 released berth #4
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #1 released berth #1
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #8 took berth #4
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #9 is created  capacity : 22  state : true
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #3 loaded 15  port_actual 2
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #3 released berth #3
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #7 took berth #2
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #9 took berth #1
+2016-06-21 10:40:10 INFO  Ship:47 - Ship #9 unloaded 22  port_actual 25
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #9 released berth #1
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #10 is created  capacity : 28  state : true
+2016-06-21 10:40:10 INFO  Ship:47 - Ship #7 unloaded 1  port_actual 3
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #10 took berth #3
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #11 is created  capacity : 1  state : false
+2016-06-21 10:40:10 INFO  Ship:47 - Ship #10 unloaded 28  port_actual 53
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #10 released berth #3
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #12 is created  capacity : 5  state : false
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #7 released berth #2
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #13 is created  capacity : 15  state : true
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #11 took berth #1
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #11 loaded 1  port_actual 52
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #11 loaded 1  port_actual 51
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #11 loaded 1  port_actual 50
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #11 loaded 1  port_actual 49
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #11 loaded 1  port_actual 48
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #11 released berth #1
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #12 took berth #3
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #12 loaded 5  port_actual 43
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #12 loaded 5  port_actual 38
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #12 loaded 5  port_actual 33
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #12 loaded 5  port_actual 28
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #12 loaded 5  port_actual 23
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #12 released berth #3
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #8 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #8 loaded 3  port_actual 20
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #8 loaded 3  port_actual 17
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #8 loaded 3  port_actual 14
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #8 loaded 3  port_actual 11
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #8 released berth #4
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #5 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #5 loaded 4  port_actual 7
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #5 loaded 4  port_actual 3
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #5 released berth #5
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #14 is created  capacity : 17  state : false
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #15 is created  capacity : 29  state : false
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #16 is created  capacity : 14  state : true
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #17 is created  capacity : 7  state : false
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #16 took berth #1
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #18 is created  capacity : 27  state : false
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #13 took berth #3
+2016-06-21 10:40:10 INFO  Ship:47 - Ship #13 unloaded 15  port_actual 32
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #13 released berth #3
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #14 took berth #2
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #18 took berth #3
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #17 took berth #5
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #17 loaded 7  port_actual 8
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #17 loaded 7  port_actual 1
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #15 took berth #4
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #19 is created  capacity : 28  state : false
+2016-06-21 10:40:10 INFO  Ship:47 - Ship #16 unloaded 14  port_actual 17
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #16 released berth #1
+2016-06-21 10:40:10 INFO  Ship:29 - Ship #20 is created  capacity : 11  state : true
+2016-06-21 10:40:10 INFO  Ship:59 - Ship #14 loaded 17  port_actual 15
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #19 took berth #1
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #18 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #17 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #19 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #18 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #17 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #19 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #18 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #17 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #17 released berth #5
+2016-06-21 10:40:10 INFO  Ship:43 - Ship #20 took berth #5
+2016-06-21 10:40:10 INFO  Ship:47 - Ship #20 unloaded 11  port_actual 12
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #20 released berth #5
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #19 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #18 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #14 released berth #2
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #19 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #18 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #18 released berth #3
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #15 released berth #4
+2016-06-21 10:40:10 INFO  Ship:63 - Ship #19 is waiting : No cargo in the port
+2016-06-21 10:40:10 INFO  Ship:74 - Ship #19 released berth #1
+2016-06-21 10:42:17 INFO  Berth:18 - Berth #1 is created
+2016-06-21 10:42:17 INFO  Berth:18 - Berth #2 is created
+2016-06-21 10:42:17 INFO  Berth:18 - Berth #3 is created
+2016-06-21 10:42:17 INFO  Port:34 - Port is created  capacity : 200  actual : 11
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #1 is created  capacity : 24  state : true
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #2 is created  capacity : 1  state : true
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #3 is created  capacity : 23  state : false
+2016-06-21 10:42:17 INFO  Ship:43 - Ship #2 took berth #1
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #4 is created  capacity : 22  state : false
+2016-06-21 10:42:17 INFO  Ship:47 - Ship #2 unloaded 1  port_actual 12
+2016-06-21 10:42:17 INFO  Ship:74 - Ship #2 released berth #1
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #5 is created  capacity : 9  state : false
+2016-06-21 10:42:17 INFO  Ship:43 - Ship #4 took berth #1
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #6 is created  capacity : 16  state : true
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #7 is created  capacity : 12  state : true
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #8 is created  capacity : 21  state : false
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #9 is created  capacity : 18  state : true
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #10 is created  capacity : 26  state : true
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #11 is created  capacity : 7  state : false
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #12 is created  capacity : 1  state : false
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #13 is created  capacity : 2  state : true
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #14 is created  capacity : 20  state : false
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #15 is created  capacity : 18  state : false
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #16 is created  capacity : 21  state : false
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #17 is created  capacity : 12  state : true
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #18 is created  capacity : 6  state : false
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #19 is created  capacity : 18  state : true
+2016-06-21 10:42:17 INFO  Ship:29 - Ship #20 is created  capacity : 13  state : true
+2016-06-21 10:42:17 INFO  Ship:63 - Ship #4 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #4 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #4 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #4 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #4 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #4 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #5 took berth #1
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #5 loaded 9  port_actual 3
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #5 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #5 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #5 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #5 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #5 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #6 took berth #1
+2016-06-21 10:42:18 INFO  Ship:47 - Ship #6 unloaded 16  port_actual 19
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #6 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #7 took berth #1
+2016-06-21 10:42:18 INFO  Ship:47 - Ship #7 unloaded 12  port_actual 31
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #7 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #8 took berth #1
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #8 loaded 21  port_actual 10
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #8 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #8 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #8 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #8 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #8 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #9 took berth #1
+2016-06-21 10:42:18 INFO  Ship:47 - Ship #9 unloaded 18  port_actual 28
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #9 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #10 took berth #1
+2016-06-21 10:42:18 INFO  Ship:47 - Ship #10 unloaded 26  port_actual 54
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #10 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #11 took berth #1
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #11 loaded 7  port_actual 47
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #11 loaded 7  port_actual 40
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #11 loaded 7  port_actual 33
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #11 loaded 7  port_actual 26
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #11 loaded 7  port_actual 19
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #11 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #12 took berth #1
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #12 loaded 1  port_actual 18
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #12 loaded 1  port_actual 17
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #12 loaded 1  port_actual 16
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #12 loaded 1  port_actual 15
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #12 loaded 1  port_actual 14
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #12 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #13 took berth #1
+2016-06-21 10:42:18 INFO  Ship:47 - Ship #13 unloaded 2  port_actual 16
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #13 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #14 took berth #1
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #14 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #15 took berth #1
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #15 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #16 took berth #1
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #16 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #17 took berth #1
+2016-06-21 10:42:18 INFO  Ship:47 - Ship #17 unloaded 12  port_actual 28
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #17 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #18 took berth #1
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #18 loaded 6  port_actual 22
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #18 loaded 6  port_actual 16
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #18 loaded 6  port_actual 10
+2016-06-21 10:42:18 INFO  Ship:59 - Ship #18 loaded 6  port_actual 4
+2016-06-21 10:42:18 INFO  Ship:63 - Ship #18 is waiting : No cargo in the port
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #18 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #19 took berth #1
+2016-06-21 10:42:18 INFO  Ship:47 - Ship #19 unloaded 18  port_actual 22
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #19 released berth #1
+2016-06-21 10:42:18 INFO  Ship:43 - Ship #20 took berth #1
+2016-06-21 10:42:18 INFO  Ship:47 - Ship #20 unloaded 13  port_actual 35
+2016-06-21 10:42:18 INFO  Ship:74 - Ship #20 released berth #1
+2016-06-21 10:47:21 INFO  Berth:18 - Berth #1 is created
+2016-06-21 10:47:21 INFO  Berth:18 - Berth #2 is created
+2016-06-21 10:47:21 INFO  Berth:18 - Berth #3 is created
+2016-06-21 10:47:21 INFO  Port:34 - Port is created  capacity : 200  actual : 58
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #1 is created  capacity : 10  state : false
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #2 is created  capacity : 11  state : false
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #3 is created  capacity : 10  state : true
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #4 is created  capacity : 22  state : true
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #5 is created  capacity : 30  state : true
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #6 is created  capacity : 14  state : false
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #1 loaded 10  port_actual 48
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #1 loaded 10  port_actual 38
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #1 loaded 10  port_actual 28
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #1 loaded 10  port_actual 18
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #1 loaded 10  port_actual 8
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #1 released berth #1
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #3 took berth #2
+2016-06-21 10:47:21 INFO  Ship:47 - Ship #3 unloaded 10  port_actual 18
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #3 released berth #2
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #7 is created  capacity : 21  state : true
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #5 took berth #3
+2016-06-21 10:47:21 INFO  Ship:47 - Ship #5 unloaded 30  port_actual 48
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #5 released berth #3
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #2 took berth #1
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #2 loaded 11  port_actual 37
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #2 loaded 11  port_actual 26
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #2 loaded 11  port_actual 15
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #2 loaded 11  port_actual 4
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #4 took berth #2
+2016-06-21 10:47:21 INFO  Ship:47 - Ship #4 unloaded 22  port_actual 26
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #4 released berth #2
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #6 took berth #3
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #6 loaded 14  port_actual 12
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #8 is created  capacity : 26  state : true
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #9 is created  capacity : 27  state : false
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #10 is created  capacity : 21  state : true
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #11 is created  capacity : 28  state : true
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #12 is created  capacity : 20  state : false
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #13 is created  capacity : 25  state : false
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #2 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #2 released berth #1
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #6 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #14 is created  capacity : 29  state : false
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #15 is created  capacity : 11  state : false
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #6 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #16 is created  capacity : 8  state : false
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #17 is created  capacity : 4  state : true
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #18 is created  capacity : 2  state : true
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #19 is created  capacity : 18  state : false
+2016-06-21 10:47:21 INFO  Ship:29 - Ship #20 is created  capacity : 4  state : true
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #6 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #7 took berth #2
+2016-06-21 10:47:21 INFO  Ship:47 - Ship #7 unloaded 21  port_actual 33
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #7 released berth #2
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #11 took berth #1
+2016-06-21 10:47:21 INFO  Ship:47 - Ship #11 unloaded 28  port_actual 61
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #11 released berth #1
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #9 took berth #2
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #9 loaded 27  port_actual 34
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #9 loaded 27  port_actual 7
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #20 took berth #1
+2016-06-21 10:47:21 INFO  Ship:47 - Ship #20 unloaded 4  port_actual 11
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #20 released berth #1
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #19 took berth #1
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #6 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #6 released berth #3
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #18 took berth #3
+2016-06-21 10:47:21 INFO  Ship:47 - Ship #18 unloaded 2  port_actual 13
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #18 released berth #3
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #16 took berth #3
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #16 loaded 8  port_actual 5
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #9 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #19 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #9 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #19 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #9 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #9 released berth #2
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #17 took berth #2
+2016-06-21 10:47:21 INFO  Ship:47 - Ship #17 unloaded 4  port_actual 9
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #17 released berth #2
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #19 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #15 took berth #2
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #16 loaded 8  port_actual 1
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #16 released berth #3
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #8 took berth #3
+2016-06-21 10:47:21 INFO  Ship:47 - Ship #8 unloaded 26  port_actual 27
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #8 released berth #3
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #14 took berth #3
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #19 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #19 loaded 18  port_actual 9
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #19 released berth #1
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #12 took berth #1
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #12 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #12 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #12 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #15 released berth #2
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #10 took berth #2
+2016-06-21 10:47:21 INFO  Ship:47 - Ship #10 unloaded 21  port_actual 30
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #10 released berth #2
+2016-06-21 10:47:21 INFO  Ship:43 - Ship #13 took berth #2
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #12 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:59 - Ship #13 loaded 25  port_actual 5
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #14 released berth #3
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #13 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #12 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #12 released berth #1
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #13 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #13 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:63 - Ship #13 is waiting : No cargo in the port
+2016-06-21 10:47:21 INFO  Ship:74 - Ship #13 released berth #2
+2016-06-21 10:51:33 INFO  Berth:18 - Berth #1 is created
+2016-06-21 10:51:33 INFO  Berth:18 - Berth #2 is created
+2016-06-21 10:51:33 INFO  Berth:18 - Berth #3 is created
+2016-06-21 10:51:33 INFO  Berth:18 - Berth #4 is created
+2016-06-21 10:51:33 INFO  Port:40 - Port is created  capacity : 200  actual : 65
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #1 is created  capacity : 9  state : true
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #2 is created  capacity : 14  state : false
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #3 is created  capacity : 16  state : false
+2016-06-21 10:51:33 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #4 is created  capacity : 29  state : false
+2016-06-21 10:51:33 INFO  Ship:43 - Ship #2 took berth #2
+2016-06-21 10:51:33 INFO  Ship:59 - Ship #2 loaded 14  port_actual 60
+2016-06-21 10:51:33 INFO  Ship:59 - Ship #2 loaded 14  port_actual 46
+2016-06-21 10:51:33 INFO  Ship:59 - Ship #2 loaded 14  port_actual 32
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #5 is created  capacity : 2  state : false
+2016-06-21 10:51:33 INFO  Ship:43 - Ship #3 took berth #3
+2016-06-21 10:51:33 INFO  Ship:59 - Ship #3 loaded 16  port_actual 2
+2016-06-21 10:51:33 INFO  Ship:47 - Ship #1 unloaded 9  port_actual 74
+2016-06-21 10:51:33 INFO  Ship:74 - Ship #1 released berth #1
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #6 is created  capacity : 2  state : false
+2016-06-21 10:51:33 INFO  Ship:59 - Ship #2 loaded 14  port_actual 18
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #7 is created  capacity : 18  state : true
+2016-06-21 10:51:33 INFO  Ship:43 - Ship #4 took berth #4
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #8 is created  capacity : 17  state : false
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #9 is created  capacity : 8  state : false
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #10 is created  capacity : 28  state : true
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #11 is created  capacity : 11  state : false
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #12 is created  capacity : 1  state : false
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #13 is created  capacity : 1  state : true
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #14 is created  capacity : 24  state : false
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #15 is created  capacity : 2  state : false
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #16 is created  capacity : 14  state : false
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #17 is created  capacity : 30  state : false
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #18 is created  capacity : 4  state : true
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #19 is created  capacity : 5  state : true
+2016-06-21 10:51:33 INFO  Ship:29 - Ship #20 is created  capacity : 9  state : true
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #3 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #2 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #2 released berth #2
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #5 took berth #1
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #5 loaded 2  port_actual 0
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #4 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #3 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #5 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #4 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #3 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #5 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #4 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #3 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #3 released berth #3
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #6 took berth #2
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #5 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #4 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #6 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #5 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #5 released berth #1
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #7 took berth #3
+2016-06-21 10:51:34 INFO  Ship:47 - Ship #7 unloaded 18  port_actual 18
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #4 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #7 released berth #3
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #4 released berth #4
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #8 took berth #1
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #8 loaded 17  port_actual 1
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #9 took berth #3
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #6 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #9 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #8 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #6 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #9 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #8 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #6 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #8 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #9 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #6 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #6 released berth #2
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #10 took berth #4
+2016-06-21 10:51:34 INFO  Ship:47 - Ship #10 unloaded 28  port_actual 29
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #10 released berth #4
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #11 took berth #2
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #11 loaded 11  port_actual 18
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #11 loaded 11  port_actual 7
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #8 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #9 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #8 released berth #1
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #12 took berth #4
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #12 loaded 1  port_actual 6
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #12 loaded 1  port_actual 5
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #12 loaded 1  port_actual 4
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #12 loaded 1  port_actual 3
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #12 loaded 1  port_actual 2
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #12 released berth #4
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #13 took berth #1
+2016-06-21 10:51:34 INFO  Ship:47 - Ship #13 unloaded 1  port_actual 3
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #13 released berth #1
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #14 took berth #4
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #11 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #9 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #9 released berth #3
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #15 took berth #1
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #15 loaded 2  port_actual 1
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #11 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #11 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #11 released berth #2
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #16 took berth #3
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #15 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #15 released berth #1
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #17 took berth #2
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #14 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #14 released berth #4
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #18 took berth #1
+2016-06-21 10:51:34 INFO  Ship:47 - Ship #18 unloaded 4  port_actual 5
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #18 released berth #1
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #19 took berth #4
+2016-06-21 10:51:34 INFO  Ship:47 - Ship #19 unloaded 5  port_actual 10
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #19 released berth #4
+2016-06-21 10:51:34 INFO  Ship:43 - Ship #20 took berth #1
+2016-06-21 10:51:34 INFO  Ship:47 - Ship #20 unloaded 9  port_actual 19
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #20 released berth #1
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:59 - Ship #16 loaded 14  port_actual 5
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #17 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #16 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #16 released berth #3
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #17 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #17 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #17 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:63 - Ship #17 is waiting : No cargo in the port
+2016-06-21 10:51:34 INFO  Ship:74 - Ship #17 released berth #2
+2016-06-21 10:52:27 INFO  Berth:18 - Berth #1 is created
+2016-06-21 10:52:27 INFO  Berth:18 - Berth #2 is created
+2016-06-21 10:52:27 INFO  Berth:18 - Berth #3 is created
+2016-06-21 10:52:27 INFO  Berth:18 - Berth #4 is created
+2016-06-21 10:52:27 INFO  Port:40 - Port is created  capacity : 200  actual : 192
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #1 is created  capacity : 21  state : false
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #2 is created  capacity : 9  state : false
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #1 loaded 21  port_actual 171
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #1 released berth #1
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #3 is created  capacity : 17  state : false
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #4 is created  capacity : 25  state : true
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #2 took berth #2
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #2 loaded 9  port_actual 162
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #2 released berth #2
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #5 is created  capacity : 25  state : false
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #4 took berth #4
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #5 took berth #1
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #3 took berth #3
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #5 loaded 25  port_actual 162
+2016-06-21 10:52:27 INFO  Ship:47 - Ship #4 unloaded 25  port_actual 187
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #6 is created  capacity : 5  state : false
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #4 released berth #4
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #5 released berth #1
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #3 loaded 17  port_actual 145
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #6 took berth #2
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #7 is created  capacity : 26  state : true
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #6 loaded 5  port_actual 140
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #6 released berth #2
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #3 released berth #3
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #7 took berth #4
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #8 is created  capacity : 17  state : true
+2016-06-21 10:52:27 INFO  Ship:47 - Ship #7 unloaded 26  port_actual 166
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #8 took berth #1
+2016-06-21 10:52:27 INFO  Ship:47 - Ship #8 unloaded 17  port_actual 183
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #9 is created  capacity : 4  state : false
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #8 released berth #1
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #7 released berth #4
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #9 took berth #2
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #9 loaded 4  port_actual 179
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #9 released berth #2
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #10 is created  capacity : 9  state : true
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #11 is created  capacity : 30  state : true
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #10 took berth #3
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #11 took berth #1
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #12 is created  capacity : 20  state : true
+2016-06-21 10:52:27 INFO  Ship:47 - Ship #10 unloaded 9  port_actual 188
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #12 took berth #4
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #13 is created  capacity : 5  state : false
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #10 released berth #3
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #13 took berth #2
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #14 is created  capacity : 27  state : false
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #13 loaded 5  port_actual 183
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #13 released berth #2
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #15 is created  capacity : 4  state : true
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #14 took berth #3
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #14 loaded 27  port_actual 156
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #14 released berth #3
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #16 is created  capacity : 27  state : true
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #15 took berth #2
+2016-06-21 10:52:27 INFO  Ship:47 - Ship #15 unloaded 4  port_actual 160
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #15 released berth #2
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #17 is created  capacity : 24  state : false
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #16 took berth #3
+2016-06-21 10:52:27 INFO  Ship:47 - Ship #16 unloaded 27  port_actual 187
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #18 is created  capacity : 12  state : false
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #16 released berth #3
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #19 is created  capacity : 27  state : true
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #17 took berth #2
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #17 loaded 24  port_actual 163
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #17 released berth #2
+2016-06-21 10:52:27 INFO  Ship:29 - Ship #20 is created  capacity : 14  state : false
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #18 took berth #3
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #18 loaded 12  port_actual 151
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #18 released berth #3
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #19 took berth #2
+2016-06-21 10:52:27 INFO  Ship:47 - Ship #19 unloaded 27  port_actual 178
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #19 released berth #2
+2016-06-21 10:52:27 INFO  Ship:43 - Ship #20 took berth #3
+2016-06-21 10:52:27 INFO  Ship:52 - Ship #11 is waiting : Port is overloaded
+2016-06-21 10:52:27 INFO  Ship:59 - Ship #20 loaded 14  port_actual 164
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #20 released berth #3
+2016-06-21 10:52:27 INFO  Ship:47 - Ship #11 unloaded 30  port_actual 194
+2016-06-21 10:52:27 INFO  Ship:52 - Ship #12 is waiting : Port is overloaded
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #11 released berth #1
+2016-06-21 10:52:27 INFO  Ship:52 - Ship #12 is waiting : Port is overloaded
+2016-06-21 10:52:27 INFO  Ship:52 - Ship #12 is waiting : Port is overloaded
+2016-06-21 10:52:27 INFO  Ship:52 - Ship #12 is waiting : Port is overloaded
+2016-06-21 10:52:27 INFO  Ship:52 - Ship #12 is waiting : Port is overloaded
+2016-06-21 10:52:27 INFO  Ship:75 - Ship #12 released berth #4
+2016-06-21 16:31:46 INFO  Berth:18 - Berth #1 is created
+2016-06-21 16:31:46 INFO  Berth:18 - Berth #2 is created
+2016-06-21 16:31:46 INFO  Berth:18 - Berth #3 is created
+2016-06-21 16:31:46 INFO  Berth:18 - Berth #4 is created
+2016-06-21 16:31:46 INFO  Port:40 - Port is created  capacity : 200  actual : 50
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #1 is created  capacity : 8  state : false
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #2 is created  capacity : 7  state : false
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #3 is created  capacity : 27  state : true
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #4 is created  capacity : 11  state : true
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #5 is created  capacity : 11  state : true
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 16:31:46 INFO  Ship:79 - Ship #1 loaded 8  port_actual 42
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #1 released berth #1
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #6 is created  capacity : 29  state : false
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #7 is created  capacity : 30  state : false
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #8 is created  capacity : 13  state : true
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #2 took berth #1
+2016-06-21 16:31:46 INFO  Ship:79 - Ship #2 loaded 7  port_actual 35
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #2 released berth #1
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #9 is created  capacity : 5  state : true
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #6 took berth #1
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #10 is created  capacity : 4  state : true
+2016-06-21 16:31:46 INFO  Ship:79 - Ship #6 loaded 29  port_actual 6
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #6 released berth #1
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #11 is created  capacity : 3  state : true
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #5 took berth #1
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #12 is created  capacity : 16  state : true
+2016-06-21 16:31:46 INFO  Ship:66 - Ship #5 unloaded 11  port_actual 17
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #13 is created  capacity : 22  state : true
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #5 released berth #1
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #14 is created  capacity : 10  state : true
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #7 took berth #1
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #15 is created  capacity : 5  state : true
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #16 is created  capacity : 10  state : false
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #17 is created  capacity : 29  state : true
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #18 is created  capacity : 14  state : false
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #19 is created  capacity : 23  state : false
+2016-06-21 16:31:46 INFO  Ship:29 - Ship #20 is created  capacity : 1  state : false
+2016-06-21 16:31:46 INFO  Ship:84 - Ship #7 is waiting : No cargo in the port
+2016-06-21 16:31:46 INFO  Ship:84 - Ship #7 is waiting : No cargo in the port
+2016-06-21 16:31:46 INFO  Ship:84 - Ship #7 is waiting : No cargo in the port
+2016-06-21 16:31:46 INFO  Ship:84 - Ship #7 is waiting : No cargo in the port
+2016-06-21 16:31:46 INFO  Ship:84 - Ship #7 is waiting : No cargo in the port
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #7 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #8 took berth #1
+2016-06-21 16:31:46 INFO  Ship:66 - Ship #8 unloaded 13  port_actual 30
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #8 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #9 took berth #1
+2016-06-21 16:31:46 INFO  Ship:66 - Ship #9 unloaded 5  port_actual 35
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #9 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #10 took berth #1
+2016-06-21 16:31:46 INFO  Ship:66 - Ship #10 unloaded 4  port_actual 39
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #10 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #11 took berth #1
+2016-06-21 16:31:46 INFO  Ship:66 - Ship #11 unloaded 3  port_actual 42
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #11 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #12 took berth #1
+2016-06-21 16:31:46 INFO  Ship:66 - Ship #12 unloaded 16  port_actual 58
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #12 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #13 took berth #1
+2016-06-21 16:31:46 INFO  Ship:66 - Ship #13 unloaded 22  port_actual 80
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #13 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #14 took berth #1
+2016-06-21 16:31:46 INFO  Ship:66 - Ship #14 unloaded 10  port_actual 90
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #14 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #15 took berth #1
+2016-06-21 16:31:46 INFO  Ship:66 - Ship #15 unloaded 5  port_actual 95
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #15 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #16 took berth #1
+2016-06-21 16:31:46 INFO  Ship:79 - Ship #16 loaded 10  port_actual 85
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #16 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #17 took berth #1
+2016-06-21 16:31:46 INFO  Ship:66 - Ship #17 unloaded 29  port_actual 114
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #17 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #18 took berth #1
+2016-06-21 16:31:46 INFO  Ship:79 - Ship #18 loaded 14  port_actual 100
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #18 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #20 took berth #1
+2016-06-21 16:31:46 INFO  Ship:79 - Ship #20 loaded 1  port_actual 99
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #20 released berth #1
+2016-06-21 16:31:46 INFO  Ship:43 - Ship #19 took berth #1
+2016-06-21 16:31:46 INFO  Ship:79 - Ship #19 loaded 23  port_actual 76
+2016-06-21 16:31:46 INFO  Ship:57 - Ship #19 released berth #1
+2016-06-21 16:32:36 INFO  Berth:18 - Berth #1 is created
+2016-06-21 16:32:36 INFO  Berth:18 - Berth #2 is created
+2016-06-21 16:32:36 INFO  Berth:18 - Berth #3 is created
+2016-06-21 16:32:36 INFO  Berth:18 - Berth #4 is created
+2016-06-21 16:32:36 INFO  Port:40 - Port is created  capacity : 200  actual : 75
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #1 is created  capacity : 11  state : true
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #2 is created  capacity : 7  state : true
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #3 is created  capacity : 28  state : false
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #4 is created  capacity : 15  state : false
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #5 is created  capacity : 15  state : false
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #2 took berth #1
+2016-06-21 16:32:36 INFO  Ship:66 - Ship #2 unloaded 7  port_actual 82
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #2 released berth #1
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #4 took berth #3
+2016-06-21 16:32:36 INFO  Ship:79 - Ship #4 loaded 15  port_actual 67
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #4 released berth #3
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #1 took berth #2
+2016-06-21 16:32:36 INFO  Ship:66 - Ship #1 unloaded 11  port_actual 78
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #1 released berth #2
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #3 took berth #4
+2016-06-21 16:32:36 INFO  Ship:79 - Ship #3 loaded 28  port_actual 50
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #3 released berth #4
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #5 took berth #1
+2016-06-21 16:32:36 INFO  Ship:79 - Ship #5 loaded 15  port_actual 35
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #5 released berth #1
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #6 is created  capacity : 14  state : true
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #7 is created  capacity : 27  state : false
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #6 took berth #3
+2016-06-21 16:32:36 INFO  Ship:66 - Ship #6 unloaded 14  port_actual 49
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #6 released berth #3
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #8 is created  capacity : 11  state : true
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #9 is created  capacity : 14  state : false
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #10 is created  capacity : 29  state : false
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #7 took berth #2
+2016-06-21 16:32:36 INFO  Ship:79 - Ship #7 loaded 27  port_actual 22
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #7 released berth #2
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #11 is created  capacity : 11  state : true
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #12 is created  capacity : 29  state : true
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #13 is created  capacity : 21  state : true
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #14 is created  capacity : 3  state : false
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #15 is created  capacity : 25  state : true
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #16 is created  capacity : 4  state : false
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #17 is created  capacity : 14  state : true
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #8 took berth #4
+2016-06-21 16:32:36 INFO  Ship:66 - Ship #8 unloaded 11  port_actual 33
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #8 released berth #4
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #13 took berth #1
+2016-06-21 16:32:36 INFO  Ship:66 - Ship #13 unloaded 21  port_actual 54
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #13 released berth #1
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #15 took berth #3
+2016-06-21 16:32:36 INFO  Ship:66 - Ship #15 unloaded 25  port_actual 79
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #15 released berth #3
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #18 is created  capacity : 19  state : true
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #19 is created  capacity : 29  state : false
+2016-06-21 16:32:36 INFO  Ship:29 - Ship #20 is created  capacity : 24  state : false
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #10 took berth #2
+2016-06-21 16:32:36 INFO  Ship:79 - Ship #10 loaded 29  port_actual 50
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #10 released berth #2
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #11 took berth #4
+2016-06-21 16:32:36 INFO  Ship:66 - Ship #11 unloaded 11  port_actual 61
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #11 released berth #4
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #17 took berth #1
+2016-06-21 16:32:36 INFO  Ship:66 - Ship #17 unloaded 14  port_actual 75
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #17 released berth #1
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #14 took berth #3
+2016-06-21 16:32:36 INFO  Ship:79 - Ship #14 loaded 3  port_actual 72
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #14 released berth #3
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #16 took berth #2
+2016-06-21 16:32:36 INFO  Ship:79 - Ship #16 loaded 4  port_actual 68
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #16 released berth #2
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #9 took berth #4
+2016-06-21 16:32:36 INFO  Ship:79 - Ship #9 loaded 14  port_actual 54
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #9 released berth #4
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #19 took berth #1
+2016-06-21 16:32:36 INFO  Ship:79 - Ship #19 loaded 29  port_actual 25
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #19 released berth #1
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #18 took berth #2
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #12 took berth #3
+2016-06-21 16:32:36 INFO  Ship:66 - Ship #18 unloaded 19  port_actual 44
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #18 released berth #2
+2016-06-21 16:32:36 INFO  Ship:66 - Ship #12 unloaded 29  port_actual 73
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #12 released berth #3
+2016-06-21 16:32:36 INFO  Ship:43 - Ship #20 took berth #4
+2016-06-21 16:32:36 INFO  Ship:79 - Ship #20 loaded 24  port_actual 49
+2016-06-21 16:32:36 INFO  Ship:57 - Ship #20 released berth #4
+2016-06-21 16:32:51 INFO  Berth:18 - Berth #1 is created
+2016-06-21 16:32:51 INFO  Berth:18 - Berth #2 is created
+2016-06-21 16:32:51 INFO  Berth:18 - Berth #3 is created
+2016-06-21 16:32:51 INFO  Berth:18 - Berth #4 is created
+2016-06-21 16:32:51 INFO  Port:40 - Port is created  capacity : 200  actual : 187
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #1 is created  capacity : 24  state : false
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #2 is created  capacity : 28  state : false
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #3 is created  capacity : 23  state : false
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #1 took berth #1
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #4 is created  capacity : 30  state : true
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #2 took berth #2
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #5 is created  capacity : 16  state : true
+2016-06-21 16:32:51 INFO  Ship:79 - Ship #1 loaded 24  port_actual 163
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #1 released berth #1
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #3 took berth #3
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #4 took berth #4
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #6 is created  capacity : 23  state : false
+2016-06-21 16:32:51 INFO  Ship:79 - Ship #2 loaded 28  port_actual 135
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #7 is created  capacity : 24  state : true
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #4 unloaded 30  port_actual 142
+2016-06-21 16:32:51 INFO  Ship:79 - Ship #3 loaded 23  port_actual 112
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #3 released berth #3
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #4 released berth #4
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #8 is created  capacity : 4  state : true
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #2 released berth #2
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #9 is created  capacity : 29  state : false
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #6 took berth #3
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #5 took berth #1
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #5 unloaded 16  port_actual 135
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #5 released berth #1
+2016-06-21 16:32:51 INFO  Ship:79 - Ship #6 loaded 23  port_actual 119
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #10 is created  capacity : 23  state : true
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #7 took berth #4
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #11 is created  capacity : 25  state : false
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #6 released berth #3
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #8 took berth #2
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #9 took berth #1
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #12 is created  capacity : 9  state : true
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #7 unloaded 24  port_actual 159
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #13 is created  capacity : 9  state : true
+2016-06-21 16:32:51 INFO  Ship:79 - Ship #9 loaded 29  port_actual 134
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #8 unloaded 4  port_actual 163
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #8 released berth #2
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #9 released berth #1
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #14 is created  capacity : 28  state : true
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #7 released berth #4
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #15 is created  capacity : 6  state : true
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #11 took berth #2
+2016-06-21 16:32:51 INFO  Ship:79 - Ship #11 loaded 25  port_actual 109
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #11 released berth #2
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #10 took berth #3
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #13 took berth #4
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #13 unloaded 9  port_actual 141
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #13 released berth #4
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #16 is created  capacity : 11  state : true
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #12 took berth #1
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #12 unloaded 9  port_actual 150
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #17 is created  capacity : 15  state : false
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #14 took berth #2
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #10 unloaded 23  port_actual 132
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #14 unloaded 28  port_actual 178
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #18 is created  capacity : 15  state : true
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #12 released berth #1
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #19 is created  capacity : 7  state : false
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #14 released berth #2
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #10 released berth #3
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #16 took berth #1
+2016-06-21 16:32:51 INFO  Ship:29 - Ship #20 is created  capacity : 5  state : true
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #15 took berth #4
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #16 unloaded 11  port_actual 189
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #17 took berth #2
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #16 released berth #1
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #15 unloaded 6  port_actual 195
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #18 took berth #3
+2016-06-21 16:32:51 INFO  Ship:79 - Ship #17 loaded 15  port_actual 180
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #18 unloaded 15  port_actual 195
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #15 released berth #4
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #18 released berth #3
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #17 released berth #2
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #20 took berth #4
+2016-06-21 16:32:51 INFO  Ship:43 - Ship #19 took berth #1
+2016-06-21 16:32:51 INFO  Ship:66 - Ship #20 unloaded 5  port_actual 200
+2016-06-21 16:32:51 INFO  Ship:79 - Ship #19 loaded 7  port_actual 193
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #20 released berth #4
+2016-06-21 16:32:51 INFO  Ship:57 - Ship #19 released berth #1
